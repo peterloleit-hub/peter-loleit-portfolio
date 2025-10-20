@@ -2,7 +2,6 @@
 
 **Email:** peterloleit@gmail.com
 **LinkedIn:** https://www.linkedin.com/in/peterloleit/
-**Mobile:** +44 7974329778 or +49 15252348277
 **Location:** Bremen, Germany | **Nationality:** UK and German (EU)
 
 ---
@@ -103,3 +102,4 @@ I partner with leaders to design and execute strategic transformations, architec
     * AI Infrastructure & Security: Cloud Digital Leader, GCP, Responsible AI Principle
 * **Hugging Face:** AI Agents Fundamentals
 * **BSC Degree Microbiology** - Cardiff University / Prifysgol Caerdydd
+
