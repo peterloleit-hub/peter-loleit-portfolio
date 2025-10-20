@@ -64,10 +64,61 @@ Highly accomplished and results-driven Analytics Executive with over **25 years 
 
 ---
 
-## ANALYTICS, TECHNOLOGY & BUSINESS COMPETENCY
+[cite_start]**Focus:** Executive Leadership, E-commerce P&L, and Digital Growth [cite: 29]
 
-### Business Skills (Strategic Leadership & Management)
+* [cite_start]Executive Leader for Digital Strategy, E-commerce, and Web Technology Operations, managing global e-commerce and marketing operations across hundreds of websites in the UK and EMEA[cite: 30].
+* [cite_start]Drove **10x revenue and traffic growth** and managed Magento, Shopify, and WooCommerce operations and development[cite: 30].
+* [cite_start]Developed and optimized digital marketing programs focused on increasing **Lifetime Value (LTV)** and LTV Gross Profit (LTVGP)[cite: 31, 32].
+* [cite_start]Consistently achieved **LTV/CAC ratios above 4:1**, driving **33% higher profitability** per customer[cite: 33].
 
-* Strategic Leadership & Consulting
-* Target Operating Model (TOM) Development
-* Digital Transformation & Innovation
+### [cite_start]Head of Technology and SEO at Sitelynx Limited (May 1998 - Aug 2018) [cite: 34]
+[cite_start]**Focus:** Analytics Transformation, BI Implementation, and Revenue Generation [cite: 35]
+
+* [cite_start]**Strategic Transformation & Platform Modernization:** Led the strategic analytics transformation for 40 clients, migrating them from legacy (Coremetrics, Webtrends, Omniture) or non-existent analytics platforms to modern stacks (Adobe Analytics, GA4, Matomo)[cite: 36].
+* [cite_start]These initiatives consistently delivered a **45% reduction in combined platform costs** and enabled **12X faster data collection** for real-time decision-making[cite: 37].
+* [cite_start]**Commercial & E-commerce Impact:** Drove consistent double-digit revenue growth and improved conversion rates to a sector-leading **3%+** for 5 major retail manufacturers[cite: 38].
+* [cite_start]**Optimization & Revenue Growth:** Directed a high-volume performance program, leading full-funnel **Conversion Rate Optimization (CRO)** and UX strategies across 25 clients[cite: 39]. [cite_start]This delivered an average of **22% improvement in CVR** and successfully increased client customer retention (repeat purchase rate) by **14%**[cite: 40].
+* [cite_start]**Performance Marketing & SEO Leadership:** Delivered data-led strategies for the major launch of SunBingo and growth of Sun Dreamteam[cite: 41]. [cite_start]Execution contributed towards **£3.8M in first-year revenue** for SunBingo (2007) and drove the acquisition of **500,000 subscribers** for Sun Dreamteam via data-led SEO[cite: 42].
+* [cite_start]**Team Leadership & Organisational Scale:** Directed and scaled the Agency Analytics and IT capability from a startup phase to full operational maturity (3 to 4 teams of 10 FTEs), establishing standardized processes that supported a **4X increase** in the ongoing client portfolio[cite: 43].
+* [cite_start]**Analytics Training & Development:** Developed and taught advanced analytics and SEO courses for leading institutions, including the **Chartered Institute of Marketing (CIM)** and **The Open University**[cite: 44].
+
+---
+
+## [cite_start]ANALYTICS, TECHNOLOGY & BUSINESS COMPETENCY [cite: 45]
+
+### [cite_start]Business Skills (Strategic Leadership & Management) [cite: 46]
+
+* [cite_start]Strategic Leadership & Consulting [cite: 47]
+* [cite_start]Target Operating Model (TOM) Development [cite: 47]
+* [cite_start]Digital Transformation & Innovation [cite: 48]
+* [cite_start]Generative AI (GenAI) & Machine Learning (ML) Integration [cite: 48]
+* [cite_start]AI CMM [cite: 48]
+* [cite_start]Program & Project Management [cite: 49]
+* [cite_start]Ecommerce Platform Management [cite: 49]
+* [cite_start]Marketing Strategy & Operations [cite: 49]
+* [cite_start]Data Stack Optimization [cite: 49]
+* [cite_start]Client Engagement & Relationship Management [cite: 50]
+
+### [cite_start]Technical Expertise (Platforms & Advanced Analytics) [cite: 51]
+
+| Category | Skills/Tools |
+| :--- | :--- |
+| **Web Analytics & BI** | [cite_start]Adobe Analytics, Google Analytics 4 (GA4), Matomo, BigQuery, Google Tag Manager (GTM), Looker Studio, Power BI, Selenium [cite: 52] |
+| **Cloud & AI/ML** | [cite_start]AWS, Google Cloud Platform (GCP), Gemini and Vertex AI, ML Automation, MLOps, BigQuery ML, Generative AI Concepts & Applications, LLMs, RAG, Vector Search & Embeddings, Lang Chain [cite: 53] |
+| **Data & Databases** | [cite_start]SQL, BigQuery, MySQL, Postgress, Talend, NQL, Python [cite: 54] |
+| **CRM & Web** | [cite_start]Hubspot, Zendesk, Freshworks, SugarCRM, Zoho, PHP, Perl, C, Wordpress [cite: 55] |
+| **E-commerce Platforms** | [cite_start]Magento1/2, Shopify, WooCommerce (Wordpress), Salesforce [cite: 56] |
+| **DevOps & Tools** | [cite_start]Linux, Bash, Apache, Nginx, GitHub, JIRA, Trello [cite: 56] |
+
+---
+
+## [cite_start]EDUCATION & CREDENTIALS [cite: 57]
+
+* [cite_start]**Deeplearning.AI Certification:** Agentic AI, AI Python, MCP (Model Context Protocol), LLMOps, Long Term Agentic Memory [cite: 58]
+* [cite_start]**IBM:** GenAI for Execs & Business Leaders Specialisation [cite: 59]
+* [cite_start]**Google Core Skills Boost (Diamond League):** [cite: 60]
+    * [cite_start]Generative AI & LLMS: Generative AI Leader, Generative AI Concepts & Applications, Gemini Models (BigQuery Integration), Prompt Design (Vertex AI), AI Governance [cite: 61]
+    * [cite_start]MLOps & Cloud Tools: Machine Learning Operations (MLOps), Vertex AI, BigQuery ML [cite: 62]
+    * [cite_start]AI Infrastructure & Security: Cloud Digital Leader, GCP, Responsible AI Principle [cite: 63]
+* [cite_start]**Hugging Face:** AI Agents Fundamentals [cite: 64]
+* [cite_start]**BSC Degree Microbiology** - Cardiff University / Prifysgol Caerdydd [cite: 65]
